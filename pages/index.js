@@ -92,7 +92,7 @@ const PROPERTY_TYPES = [
   { value: "teren", label: "Teren", icon: TreePine }
 ];
 
-function PropSyncApp() {
+function ImoSyncApp() {
   const [properties, setProperties] = useState(PROPERTIES_DATA);
   const [selectedProperty, setSelectedProperty] = useState(null);
   const [searchTerm, setSearchTerm] = useState('');
@@ -521,4 +521,4 @@ function PropSyncApp() {
   );
 }
 
-export default PropSyncApp;
+export default ImoSyncApp;
