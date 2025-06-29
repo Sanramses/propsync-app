@@ -279,6 +279,7 @@ function ImoSyncApp() {
               <a href="#" className="text-blue-600 font-medium">Acasă</a>
               <a href="#" className="text-gray-600 hover:text-blue-600">Proprietăți</a>
               <a href="#" className="text-gray-600 hover:text-blue-600">Servicii</a>
+              <a href="/social-media" className="text-gray-600 hover:text-blue-600">Social Media</a>
               <a href="#" className="text-gray-600 hover:text-blue-600">Contact</a>
             </nav>
             <button 
@@ -298,6 +299,7 @@ function ImoSyncApp() {
             <a href="#" className="block py-2 text-blue-600 font-medium">Acasă</a>
             <a href="#" className="block py-2 text-gray-600">Proprietăți</a>
             <a href="#" className="block py-2 text-gray-600">Servicii</a>
+            <a href="/social-media" className="text-gray-600 hover:text-blue-600">Social Media</a>
             <a href="#" className="block py-2 text-gray-600">Contact</a>
           </nav>
         </div>
